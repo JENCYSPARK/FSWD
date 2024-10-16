@@ -1,0 +1,15 @@
+*.class
+*.o
+*.exe
+*.log
+Thumbs.db
+/build/
+/dist/
+/node_modules/
+/vendor/
+.env
+config/database.yml
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
